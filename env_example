@@ -1,5 +1,5 @@
 # Токен бота, можно получить у https://t.me/botfather
-BOT_TOKEN=1234567890:AaBbCcDdEeFGgHhIiJjKkLlMmNnOoPpQq
+BOT_TOKEN=5886401163:AAHznNZrrVlaxCv6Z9Y2Cn3OdEoebfQMEcY
 
 # ID чата, куда будут приходить сообщения. Можно даже группа или канал,
 # в этом случае все участники группы/канала смогут отвечать на сообщения
